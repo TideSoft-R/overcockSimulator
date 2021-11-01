@@ -33,7 +33,7 @@ namespace overcocksimulator
                 losesound.Play();
                 Form lose = new Form3();
                 lose.Show();
-                button1.Enabled = false;
+                this.Close();
             }
         }
     }
