@@ -21,6 +21,8 @@ namespace overcocksimulator
         private void button1_Click(object sender, EventArgs e)
         {
             Data.bal = Data.bal + 110;
+            Form fx = new Form4();
+            fx.Close();
             this.Close();
             Form form = new Form1();
             form.Show();
