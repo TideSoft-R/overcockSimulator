@@ -14,3 +14,5 @@ C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.csproj.CoreCompileInputs.cache
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.exe
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form6.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form7.resources

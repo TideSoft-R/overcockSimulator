@@ -59,5 +59,18 @@ namespace overcocksimulator
             Data.bal = bal1;
             label1.Text = "БАЛАНС: " + Data.bal;
         }
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form createproc = new Form6();
+            createproc.Show();
+        }
+
+        private void button5_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form createproc = new Form6();
+            createproc.Show();
+        }
     }
 }

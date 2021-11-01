@@ -49,9 +49,9 @@ namespace overcocksimulator
             this.label1.ForeColor = System.Drawing.Color.Maroon;
             this.label1.Location = new System.Drawing.Point(101, 276);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(198, 25);
+            this.label1.Size = new System.Drawing.Size(201, 25);
             this.label1.TabIndex = 1;
-            this.label1.Text = "ЗЕОН СГОРЕЛ!!!!!!";
+            this.label1.Text = "ПРОЦ СГОРЕЛ!!!!!!";
             // 
             // button1
             // 

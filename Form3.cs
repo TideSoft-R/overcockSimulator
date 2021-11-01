@@ -20,7 +20,6 @@ namespace overcocksimulator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Data.bal = Data.bal + 10;
             this.Close();
             Form form = new Form1();
             form.Show();

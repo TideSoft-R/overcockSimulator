@@ -30,8 +30,6 @@ namespace overcocksimulator
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -39,23 +37,11 @@ namespace overcocksimulator
             this.label3 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // panel2
-            // 
-            this.panel2.BackgroundImage = global::overcocksimulator.Properties.Resources.fx;
-            this.panel2.Location = new System.Drawing.Point(392, 76);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(225, 222);
-            this.panel2.TabIndex = 1;
-            // 
-            // panel1
-            // 
-            this.panel1.BackgroundImage = global::overcocksimulator.Properties.Resources.xeon;
-            this.panel1.Location = new System.Drawing.Point(60, 72);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(223, 226);
-            this.panel1.TabIndex = 0;
             // 
             // button2
             // 
@@ -126,12 +112,48 @@ namespace overcocksimulator
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // panel2
+            // 
+            this.panel2.BackgroundImage = global::overcocksimulator.Properties.Resources.fx;
+            this.panel2.Location = new System.Drawing.Point(392, 76);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(225, 222);
+            this.panel2.TabIndex = 1;
+            // 
+            // panel1
+            // 
+            this.panel1.BackgroundImage = global::overcocksimulator.Properties.Resources.xeon;
+            this.panel1.Location = new System.Drawing.Point(60, 72);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(223, 226);
+            this.panel1.TabIndex = 0;
+            // 
+            // panel3
+            // 
+            this.panel3.BackgroundImage = global::overcocksimulator.Properties.Resources.unknown;
+            this.panel3.Location = new System.Drawing.Point(217, 392);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(225, 227);
+            this.panel3.TabIndex = 11;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(217, 639);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(225, 46);
+            this.button5.TabIndex = 12;
+            this.button5.Text = "СОЗДАТЬ СВОЮ ШАЙТАН МАШИНУ";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(672, 398);
+            this.ClientSize = new System.Drawing.Size(683, 697);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label3);
@@ -146,6 +168,7 @@ namespace overcocksimulator
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Чё разгоняем?";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -164,5 +187,7 @@ namespace overcocksimulator
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button button5;
     }
 }
