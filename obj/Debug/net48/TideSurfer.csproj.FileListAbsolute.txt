@@ -1,0 +1,14 @@
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.csproj.AssemblyReference.cache
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.Form1.resources
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.csproj.GenerateResource.cache
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.AssemblyInfoInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.AssemblyInfo.cs
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.csproj.CoreCompileInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\bin\Debug\net48\TideSurfer.exe.config
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\bin\Debug\net48\TideSurfer.exe
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\bin\Debug\net48\TideSurfer.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.Properties.Resources.resources
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.exe
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\TideSurfer\obj\Debug\net48\TideSurfer.Form2.resources
