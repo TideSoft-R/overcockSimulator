@@ -1,0 +1,16 @@
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Release\net48\overcocksimulator.exe.config
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Release\net48\overcocksimulator.exe
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Release\net48\overcocksimulator.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form1.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form2.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form3.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form4.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Form5.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.Properties.Resources.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.csproj.GenerateResource.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.AssemblyInfoInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.AssemblyInfo.cs
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.csproj.CoreCompileInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.exe
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Release\net48\overcocksimulator.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\TideSurfer\\TideSurfer.csproj",
-      "projectName": "TideSurfer",
-      "projectPath": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\TideSurfer\\TideSurfer.csproj",
+      "projectUniqueName": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\overcocksimulator\\overcocksimulator.csproj",
+      "projectName": "overcocksimulator",
+      "projectPath": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\overcocksimulator\\overcocksimulator.csproj",
       "packagesPath": "C:\\Users\\fnaff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\TideSurfer\\obj\\",
+      "outputPath": "C:\\Users\\fnaff\\source\\repos\\lessons_winforms\\overcocksimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fnaff\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,11 +11,11 @@ using System.Media;
 
 namespace overcocksimulator
 {
-    public partial class Form2 : Form
+    public partial class Form4 : Form
     {
         int temp = 30;
-        int mhz = 2000;
-        public Form2()
+        int mhz = 3000;
+        public Form4()
         {
             InitializeComponent();
         }
@@ -23,15 +23,15 @@ namespace overcocksimulator
         private void button1_Click(object sender, EventArgs e)
         {
             mhz = mhz + 100;
-            textBox1.Text = mhz + " МГц";
+            textBox3.Text = mhz + " МГц";
             temp = temp + 2;
-            textBox2.Text = temp + "°C";
-            textBox3.Text = "6";
-            if (temp >= 90)
+            textBox1.Text = temp + "°C";
+            textBox2.Text = "4";
+            if (temp >= 110)
             {
                 SoundPlayer losesound = new SoundPlayer(@"C:/Windows/Media/Windows Error.wav");
                 losesound.Play();
-                Form lose = new Form3();
+                Form lose = new Form5();
                 lose.Show();
                 button1.Enabled = false;
             }

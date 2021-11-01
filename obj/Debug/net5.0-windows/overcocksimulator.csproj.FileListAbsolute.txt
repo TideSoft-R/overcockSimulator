@@ -1,0 +1,16 @@
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.exe
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.deps.json
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.runtimeconfig.json
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.runtimeconfig.dev.json
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.dll
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\ref\overcocksimulator.dll
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\bin\Debug\net5.0-windows\overcocksimulator.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.csproj.AssemblyReference.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.AssemblyInfoInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.AssemblyInfo.cs
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.csproj.CoreCompileInputs.cache
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.dll
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\ref\overcocksimulator.dll
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.pdb
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net5.0-windows\overcocksimulator.genruntimeconfig.cache
