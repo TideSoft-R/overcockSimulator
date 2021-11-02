@@ -72,5 +72,57 @@ namespace overcocksimulator
             Form createproc = new Form6();
             createproc.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            if (Data.bal < 250)
+            {
+                MessageBox.Show("ТЫ БОМЖ ЕБАННЫЙ");
+            }
+            else
+            {
+                Data.bal -= 250;
+                Form i3 = new Form8();
+                i3.Show();
+                this.Hide();
+            }
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyValue == (char)Keys.NumPad5)
+            {
+                Data.bal += 9999;
+                label1.Text = "БАЛАНС: " + Data.bal;
+                MessageBox.Show("Вам было зачислено оверохуя денег на баланс");
+            }
+            if (e.KeyValue == (char)Keys.NumPad4)
+            {
+                Data.bal = 0;
+                label1.Text = "БАЛАНС: " + Data.bal;
+                MessageBox.Show("Баланс обнулён");
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (Data.bal < 150)
+            {
+                MessageBox.Show("ТЫ БОМЖ ЕБАННЫЙ");
+            }
+            else
+            {
+                Data.bal -= 150;
+                Form celeron = new Form10();
+                celeron.Show();
+                this.Hide();
+            }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("В версии 0.5");
+        }
     }
 }

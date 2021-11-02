@@ -28,35 +28,18 @@ namespace overcocksimulator
             Data.temp = Convert.ToInt32(textBox1.Text);
             Data.mhz = Convert.ToInt32(textBox3.Text);
             Data.name = textBox2.Text;
-            if (Data.cores <= 0)
-            {
-                MessageBox.Show("Еблан нельзя нули писать");
-            }
-            if (Data.cores > 16)
-            {
-                MessageBox.Show("Еблан?");
-            }
-            if (Data.mhz <= 0)
-            {
-                MessageBox.Show("Еблан нельзя нули писать");
-            }
-            if (Data.mhz > 4000)
-            {
-                MessageBox.Show("Еблан?");
-            }
-            if (Data.temp <= 0)
-            {
-                MessageBox.Show("Еблан нельзя нули писать");
-            }
-            if (Data.temp > 150)
-            {
-                MessageBox.Show("Еблан?");
-            }
-            else
+            if (Data.cores > 0 && Data.cores <= 16 && Data.mhz > 0 && Data.mhz <= 4000 && Data.temp > 0 && Data.temp <= 150)
             {
                 Form result = new Form7();
                 result.Show();
                 this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Еблан читай условия");
+                this.Close();
+                Form main = new Form1();
+                main.Show();
             }
         }
 

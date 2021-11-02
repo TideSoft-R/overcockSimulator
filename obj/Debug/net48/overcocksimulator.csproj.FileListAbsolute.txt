@@ -17,3 +17,6 @@ C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\o
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form5.resources
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form6.resources
 C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form7.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form8.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form9.resources
+C:\Users\fnaff\source\repos\lessons_winforms\overcocksimulator\obj\Debug\net48\overcocksimulator.Form10.resources

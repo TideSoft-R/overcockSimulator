@@ -63,6 +63,26 @@ namespace overcocksimulator.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap celeron {
+            get {
+                object obj = ResourceManager.GetObject("celeron", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap core_i3 {
+            get {
+                object obj = ResourceManager.GetObject("core_i3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fx {
             get {
                 object obj = ResourceManager.GetObject("fx", resourceCulture);
@@ -86,6 +106,16 @@ namespace overcocksimulator.Properties {
         internal static System.Drawing.Bitmap lose_fx {
             get {
                 object obj = ResourceManager.GetObject("lose_fx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap otval {
+            get {
+                object obj = ResourceManager.GetObject("otval", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
